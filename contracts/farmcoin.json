@@ -1,0 +1,10 @@
+{
+  "name": "FarmCoin",
+  "symbol": "FARM",
+  "description": "FarmCoin (FARM) — внутриигровой токен экосистемы BUTON TAP.",
+  "decimals": 9,
+  "image": "https://via.placeholder.com/512",
+  "socials": {
+    "telegram": "https://t.me/butontap"
+  }
+}
