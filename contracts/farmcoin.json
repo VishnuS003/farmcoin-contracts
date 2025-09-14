@@ -5,8 +5,7 @@
   "decimals": 9,
   "image": "https://raw.githubusercontent.com/VishnuS003/farmcoin-contracts/main/logo.png",
   "socials": {
-    "telegram": "https://t.me/butontap"
-    Token metadata (JSON): https://raw.githubusercontent.com/VishnuS003/farmcoin-contracts/main/contracts/farmcoin.json
-    Token logo: https://raw.githubusercontent.com/VishnuS003/farmcoin-contracts/main/logo.png
+    "telegram": "https://t.me/butontap",
+    "website": "https://butontap.com"
   }
 }
