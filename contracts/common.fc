@@ -1,0 +1,4 @@
+int workchain() inline { 
+    ;; basechain = 0 (для обычных адресов)
+    return 0; 
+}

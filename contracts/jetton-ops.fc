@@ -1,0 +1,12 @@
+;; jetton-ops.fc — операции Jetton (op::...)
+
+int op::transfer() inline { return 0x0f8a7ea5; }
+int op::transfer_notification() inline { return 0x7362d09c; }
+int op::internal_transfer() inline { return 0x178d4519; }
+int op::excesses() inline { return 0xd53276db; }
+int op::burn() inline { return 0x595f07bc; }
+int op::burn_notification() inline { return 0x7bdd97de; }
+
+int op::mint() inline { return 0x642dd311; }
+int op::change_admin() inline { return 0x551bd3df; }
+int op::claim_admin() inline { return 0x0f9b0bfb; }

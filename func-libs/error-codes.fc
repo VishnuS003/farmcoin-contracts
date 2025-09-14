@@ -1,0 +1,9 @@
+;; error-codes.fc — коды ошибок для контрактов
+
+const int ERROR_NOT_OWNER       = 100;
+const int ERROR_LOW_BALANCE     = 101;
+const int ERROR_WRONG_ARGUMENTS = 102;
+const int ERROR_UNAUTHORIZED    = 103;
+const int ERROR_INVALID_OP      = 104;
+const int ERROR_INTERNAL        = 105;
+
